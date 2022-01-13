@@ -1,2 +1,2 @@
-Criar uma nova branch possibilitar fazer alterações no arquivo sem 
+Criar uma nova branch possibilita fazer alterações no arquivo sem 
 alterar o que está na branch main.
